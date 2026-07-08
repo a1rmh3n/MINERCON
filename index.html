@@ -18,7 +18,7 @@
     const params = new URLSearchParams(window.location.search);
     const id = params.get('id');
 
-    fetch('datos.json')
+    fetch('Lista-Contratos.json')
       .then(res => res.json())
       .then(contratos => {
         const contrato = contratos.find(c => c.id === id);
