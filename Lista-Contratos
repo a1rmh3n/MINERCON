@@ -1,0 +1,23 @@
+[
+  {
+    "id": "CT-2026-0001",
+    "cliente": "Nombre del cliente 1",
+    "fecha": "2026-01-15",
+    "estado": "Vigente",
+    "link": "AQUI_PEGA_EL_LINK_DEL_PDF_1"
+  },
+  {
+    "id": "CT-2026-0002",
+    "cliente": "Nombre del cliente 2",
+    "fecha": "2026-02-03",
+    "estado": "Vigente",
+    "link": "AQUI_PEGA_EL_LINK_DEL_PDF_2"
+  }
+{
+    "id": "CT-2026-0003",
+    "cliente": "ALBERTO OSORIO VERA",
+    "fecha": "2026-06-16",
+    "estado": "Vigente",
+    "link": "AQUI_PEGA_EL_LINK_DEL_PDF_2"
+  }
+]
